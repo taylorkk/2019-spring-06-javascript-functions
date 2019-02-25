@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+}
+header {
+  background-size: cover;
+  height: 200px;
+
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+
+  text-align: center;
+}
+
+#header {
+  background: white;
+  color: #FFF;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 20px;
+  background: #AAA;
+  border: none;
+  border-radius: 10px;
+}
+button:hover {
+  background: #888;
+}
+button:active {
+  background: #555;
+}
+
+/* applies to all the dog sections */
+#funhouse {
+  width: 100%;
+  display: flex;
+  text-align: left;
+  flex-direction: row;
+  align-content: center;
+  align-items: stretch;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+
+#funhouse section {
+  width: 33.33%;
+  padding: 10px;
+  text-align: center;
+}
+
+#funhouse section img {
+  width: 80%;
+  border: 5px solid black;
+}
