@@ -52,20 +52,21 @@ Find the functions in this project. Look in all the JavaScript files!
 ### HOMEWORK: Update this project
 
 * Add a second button in the header that changes the body color of the page.
- * What function would you call to get a new color?
- * Align it to the right side of the page
+  * What function would you call to get a new color?
+  * Align it to the right side of the page
 
 * Add a 4th column
- * Have it update when the other 3 columns are updated
- * How are the columns being selected
- * How will the width of the columns change?
- * Can you create a new function that will update all 4 columns in 1 call?
+  * Have it update when the other 3 columns are updated
+  * How are the columns being selected
+  * How will the width of the columns change?
+  * Can you create a new function that will update all 4 columns in 1 call?
 
-* Add 2 more dogs to the randomDog function
-* Add 2 more colors to the randomBodyColor function
-
+* Update functions
+  * Add 2 more dogs to the randomDog function
+  * Add 2 more colors to the randomBodyColor function
 
 # Reference:
 
 * https://api.jquery.com/click/
 * https://api.jquery.com/nth-child-selector/
+* https://www.w3schools.com/js/js_functions.asp
