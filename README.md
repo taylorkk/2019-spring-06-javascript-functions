@@ -61,6 +61,9 @@ Find the functions in this project. Look in all the JavaScript files!
  * How will the width of the columns change?
  * Can you create a new function that will update all 4 columns in 1 call?
 
+* Add 2 more dogs to the randomDog function
+* Add 2 more colors to the randomBodyColor function
+
 
 # Reference:
 
