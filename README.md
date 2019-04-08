@@ -49,7 +49,7 @@ Don't worry too much about them now. Just know that you can call existing functi
 
 Find the functions in this project. Look in all the JavaScript files!
 
-### HOMEWORK: Update this project
+### Homework: Update this project
 
 * Add a second button in the header that changes the body color of the page.
   * What function would you call to get a new color?
@@ -64,6 +64,8 @@ Find the functions in this project. Look in all the JavaScript files!
 * Update functions
   * Add 2 more dogs to the randomDog function
   * Add 2 more colors to the randomBodyColor function
+
+* Publish your page on github (gh-pages!)
 
 # Reference:
 
