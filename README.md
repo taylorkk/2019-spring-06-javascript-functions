@@ -17,7 +17,7 @@ Update the Puppy Fun House page to responds to more event handlers and selectors
 
 ### Lesson
 
-Take a look at the [live site](git@github.com:Coderbabez/2019-spring-06-javascript-functions.git):
+Take a look at the [live site](http://coderbabez.github.io/2019-spring-06-javascript-functions):
 
 * What are the html elements?
 * What changes when the button is clicked?
