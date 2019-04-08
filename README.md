@@ -11,7 +11,7 @@ Update the Puppy Fun House page to responds to more event handlers and selectors
 * Functions
 
 ### Review
-* What do we use JavaScript for? 
+* What do we use JavaScript for?
 * How do we connect JavaScript to our html?
 * What is an event handler?
 
@@ -22,10 +22,9 @@ Take a look at the live site:
 * What are the html elements?
 * What changes when the button is clicked?
 
-
 Take a look at the html:
 
-* What's in the html? 
+* What's in the html?
 * How is the content initialized?
 * How is the content changed when the button is clicked?
 
@@ -36,7 +35,7 @@ Functions are reusable sections of code. They are given 0, 1, or many parameters
 Functions look like:
 
 ```js
-function functionName(paramter) {
+function functionName(parameter) {
   // code
 }
 ```
@@ -50,9 +49,9 @@ Don't worry too much about them now. Just know that you can call existing functi
 
 Find the functions in this project. Look in all the JavaScript files!
 
-##### Update this project
+### HOMEWORK: Update this project
 
-* Add a second button in the header that changes the background color of the page. 
+* Add a second button in the header that changes the body color of the page.
  * What function would you call to get a new color?
  * Align it to the right side of the page
 
@@ -60,6 +59,7 @@ Find the functions in this project. Look in all the JavaScript files!
  * Have it update when the other 3 columns are updated
  * How are the columns being selected
  * How will the width of the columns change?
+ * Can you create a new function that will update all 4 columns in 1 call?
 
 
 # Reference:
