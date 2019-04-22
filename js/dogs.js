@@ -59,6 +59,16 @@ function randomDog() {
       name: 'Hoku & Malie',
       parent: 'Mom & Dad',
       image: 'img/hoku_and_malie.jpg'
+    },
+    {
+      name: 'Lii',
+      parent: 'Mom & Dad',
+      image: 'img/lii.jpg'
+    },
+    {
+      name: 'OP',
+      parent: 'Aunty Lynne',
+      image: 'img/OP.jpg'
     }
 
   ];
