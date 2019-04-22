@@ -15,7 +15,11 @@ function randomColumnColor() {
     '#FF6EFF',
     '#EE34D2',
     '#FF00CC',
-    '#FF00CC'
+    '#FF00CC',
+    '#5351c0',
+    '#4588aa',
+    '#c08bec',
+
   ];
   var i = Math.floor(Math.random() * column_colors.length);
   return column_colors[i];
@@ -23,9 +27,13 @@ function randomColumnColor() {
 
 function randomBodyColor() {
   var background_colors = [
-    'black',
-    'white',
-    '#333'
+    '#333',
+    'blue',
+    'pink',
+    'yellow',
+    'green',
+    'orange',
+
   ];
   var i = Math.floor(Math.random() * background_colors.length);
   return background_colors[i];
