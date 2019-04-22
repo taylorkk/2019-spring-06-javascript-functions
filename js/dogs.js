@@ -49,7 +49,18 @@ function randomDog() {
       name: 'Harper',
       parent: 'Rachel C',
       image: 'img/harper.jpg'
+    },
+    {
+      name: 'Sox',
+      parent: 'Karly',
+      image: 'img/sox.jpg'
+    },
+    {
+      name: 'Hoku & Malie',
+      parent: 'Mom & Dad',
+      image: 'img/hoku_and_malie.jpg'
     }
+
   ];
   var i = Math.floor(Math.random() * dogs.length);
   return dogs[i];
