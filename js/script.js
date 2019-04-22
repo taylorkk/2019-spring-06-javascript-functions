@@ -12,12 +12,17 @@ $("document").ready(function() {
     updateColumn(2);
     updateColumn(3);
   });
+
+ // 1.  Add a second button in the header that changes the body color of the page.
+    // Call the existing randomBodyColor function to get a random color
+
+ // 2. Add a 4th column to the HTML. Update our page load and our click handler code to update the 4th column
+
+ // BONUS: Can you figure out how to add two dogs to the randomDog function?
+
+ // BONUS: Can you figure out how to add two new colors to the randomBodyColor function?
+
 });
-$("changeBody").click(function(){
-  $("body").css()
-}
-  randomBodyColor(dfh)
-)
 
 function updateColumn(number) {
   $element = $("#funhouse section:nth-child(" + number + ")");
