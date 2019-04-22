@@ -13,6 +13,11 @@ $("document").ready(function() {
     updateColumn(3);
   });
 });
+$("changeBody").click(function(){
+  $("body").css()
+}
+  randomBodyColor(dfh)
+)
 
 function updateColumn(number) {
   $element = $("#funhouse section:nth-child(" + number + ")");
